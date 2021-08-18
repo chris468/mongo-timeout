@@ -1,0 +1,18 @@
+/_build
+/cover
+/deps
+/share
+/include
+/.pytest_cache
+**/__pycache__
+*.pyc
+erl_crash.dump
+*.ez
+*.beam
+/.elixir_ls
+bin/
+build/
+
+# dialyzer output
+*.plt
+*.plt.hash
